@@ -18,10 +18,10 @@ int main()
     stateManager.Init();
 
     //trun
-	while ( stateManager.Running() )
-	{
+    while ( stateManager.Running() )
+    {
 
-	}
+    }
 
     sceKernelExitProcess(0);
 
